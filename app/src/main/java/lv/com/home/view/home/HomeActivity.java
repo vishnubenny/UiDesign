@@ -44,7 +44,6 @@ public class HomeActivity extends AppCompatActivity {
         };
         mDrawerLayout.addDrawerListener(actionBarDrawerToggle);
         actionBarDrawerToggle.syncState();
-
     }
 
     private void cacheWidget() {
